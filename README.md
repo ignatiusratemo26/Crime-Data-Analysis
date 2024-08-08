@@ -1,6 +1,6 @@
 # Crime-Data-Analysis
 A workbook containing analysis of crimes that occurred in Los Angeles, USA.
-![Los Angeles skyline](la_skyline.jpg)
+![Los Angeles skyline](data/la_skyline.jpg)
 
 Los Angeles, California 😎. The City of Angels. Tinseltown. The Entertainment Capital of the World! 
 
